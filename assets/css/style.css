@@ -1,0 +1,14 @@
+.navbar-brand .text-primary img {
+	width: 142px;
+}
+.wraptext {
+	white-space: pre-wrap;
+}
+.tombol-data {
+	display: flex;
+}
+@media (max-width: 762px) {
+	.spasi {
+		margin-top: 10px;
+	}
+}

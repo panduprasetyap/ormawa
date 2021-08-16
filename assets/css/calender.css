@@ -1,0 +1,70 @@
+table {
+	border: 10px solid #5e72e4;
+	border-collapse: collapse;
+	border-radius: 1.5em;
+	overflow: hidden;
+}
+td {
+	width: 170px;
+	height: 70px;
+	text-align: center;
+	border: 1px solid #e2e0e0;
+	font-size: 18px;
+	font-weight: bold;
+}
+th {
+	height: 70px;
+	padding-bottom: 8px;
+	background: #5e72e4;
+	font-size: 20px;
+}
+.prev_sign a,
+.next_sign a {
+	color: white;
+	text-decoration: none;
+}
+tr.week_name {
+	font-size: 16px;
+	font-weight: 400;
+	color: red;
+	width: 10px;
+	background-color: #efe8e8;
+}
+.highlight {
+	background-color: #2dce89;
+	color: white;
+	height: 70px;
+	padding-top: 13px;
+	padding-bottom: 7px;
+}
+.calender .days td {
+	width: 80px;
+	height: 80px;
+}
+.calender .hightlight {
+	font-weight: 600px;
+}
+.calender .days td:hover {
+	background-color: #def;
+}
+.content {
+	background-color: #f5365c;
+	color: white;
+}
+.fa {
+	color: #def;
+}
+.panahright {
+	margin-right: 60px;
+	background-color: #2dce89;
+	border-radius: 100%;
+}
+.panahleft {
+	background-color: #2dce89;
+	margin-left: 80px;
+	border-radius: 100%;
+}
+
+.judul {
+	color: #def;
+}
